@@ -1,3 +1,3 @@
-# PromptCollaborationSite
+# PromptCollaboration
 
-Sources for the GitHub pages web site promptcollaboration.ai/com.
+* *Site*: Sources for the GitHub pages web site promptcollaboration.ai/com.
